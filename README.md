@@ -1,0 +1,2 @@
+# krunker-hacks
+use tampermonkey
